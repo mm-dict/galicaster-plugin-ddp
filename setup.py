@@ -37,5 +37,5 @@ setup(
     # your project is installed. For an analysis of "install_requires" vs pip's
     # requirements files see:
     # https://packaging.python.org/en/latest/requirements.html
-    install_requires=['python-meteor', 'pyscreenshot'],
+    install_requires=['python-meteor', 'pyscreenshot==0.5.1', 'EasyProcess==0.2.5'],
 )
